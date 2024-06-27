@@ -1,0 +1,63 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte do corpo do texto */
+    margin: 0; /* Remove a margem padrão */
+    padding: 0; /* Remove o padding padrão */
+    background-color: #f4f4f4; /* Define a cor de fundo */
+}
+
+.profile-container {
+    max-width: 600px; /* Largura máxima do container */
+    margin: 50px auto; /* Centraliza o container horizontalmente */
+    background-color: #fff; /* Define a cor de fundo do container */
+    padding: 20px; /* Adiciona padding interno */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra ao redor do container */
+    border-radius: 10px; /* Define bordas arredondadas */
+}
+
+.profile-header {
+    text-align: center; /* Centraliza o texto do cabeçalho */
+}
+
+.profile-pic {
+    width: 150px; /* Largura da foto do perfil */
+    height: 150px; /* Altura da foto do perfil */
+    border-radius: 50%; /* Torna a foto circular */
+    object-fit: cover; /* Ajusta a imagem para cobrir a área */
+}
+
+.user-name {
+    font-size: 24px; /* Tamanho da fonte do nome do usuário */
+    margin: 10px 0; /* Espaçamento vertical do nome */
+}
+
+.user-bio {
+    font-size: 16px; /* Tamanho da fonte da biografia */
+    color: #666; /* Cor do texto da biografia */
+}
+
+.profile-details {
+    margin-top: 20px; /* Espaçamento superior da seção de detalhes */
+}
+
+.profile-details h2 {
+    font-size: 20px; /* Tamanho da fonte do título da seção de detalhes */
+    border-bottom: 2px solid #eee; /* Linha inferior do título */
+    padding-bottom: 5px; /* Espaçamento inferior do título */
+}
+
+.profile-details ul {
+    list-style-type: none; /* Remove marcadores da lista */
+    padding: 0; /* Remove padding da lista */
+}
+
+.profile-details li {
+    margin: 10px 0; /* Espaçamento vertical dos itens da lista */
+}
+
+.profile-footer {
+    text-align: center; /* Centraliza o texto do rodapé */
+    margin-top: 20px; /* Espaçamento superior do rodapé */
+    font-size: 14px; /* Tamanho da fonte do rodapé */
+    color: #aaa; /* Cor do texto do rodapé */
+}
