@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "crislainepaula.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "crislainepaula.github",
+  "start_url": "/https://crislainepaula.github.io/ProjetoPerfil/",
+  "theme_color": "#ffffff",
+  "lang": "pt"
+}
